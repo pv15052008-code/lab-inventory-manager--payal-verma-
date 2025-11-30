@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Doe",
+        "isbn": "1111",
+        "status": "available"
+    },
+    {
+        "title": "Data Structures",
+        "author": "Jane Smith",
+        "isbn": "2222", 
+        "status": "issued"
+    }
+]
